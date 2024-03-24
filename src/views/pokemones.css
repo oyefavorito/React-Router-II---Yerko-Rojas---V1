@@ -1,0 +1,10 @@
+#seleccionador{
+  border-radius: 20px;
+  border-width: 3px;
+  border-color: yellow;
+  margin-bottom: 30px;
+}
+
+Button {
+    width: 60%;
+}
